@@ -30,6 +30,7 @@
 <strong>概要</strong>
 友人が開いている日を教えてくれるWebアプリケーション  
 開発時期: 2024年5月 ~ 現在  
+バックエンドを担当  
 公開することができないので、[リンク](https://docs.google.com/presentation/d/1gclXpFfsgsPfGDguoHCI78rA61D7A0VCua6w2CabmSg/edit#slide=id.p)に発表資料のみ掲載してあります。
 
 <hr>
@@ -50,6 +51,7 @@
 </br><strong>概要</strong></br>
 チームを作り(3人)、ゼミの課題で作成。  
 nuxt3を使用  
+バックエンドを担当  
 開発時期: 2023年5月 ~ 7月  
 公開することができないので、[リンク]()に写真のみ張り付けてあります。  
 
@@ -71,7 +73,9 @@ taskの閲覧、作成ができるもの。
 タイピングレースゲーム  
 タイピングを正確に打つたびにキャラクターが速く動き、一番早くゴールにたどり着いた人が勝ち  
 google driveに置きました[リンク](https://drive.google.com/drive/folders/1JlobHbSryzWa_ec7khj8eTWHf5l8xY71)  
+バックエンドを担当  
 開発時期: 2020年11月の5日間  
+
 
 <hr>
 
@@ -83,6 +87,7 @@ google driveに置きました[リンク](https://drive.google.com/drive/folders
 スキルを駆使してボスを倒したらゲームクリア。  
 バグだらけ。  
 google driveに置きました[リンク](https://drive.google.com/drive/folders/1UMX5vUEc6sDob393lPsuk2QGnfKAwKpz)  
+バックエンドを担当  
 開発時期: 2020年5月の5日間  
 
 

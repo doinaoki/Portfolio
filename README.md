@@ -30,7 +30,7 @@
 <strong>概要</strong>
 友人が開いている日を教えてくれるWebアプリケーション  
 開発時期: 2024年5月 ~ 現在  
-公開することができないので、[リンク]()に写真のみ張り付けてあります。
+公開することができないので、[リンク](https://docs.google.com/presentation/d/1gclXpFfsgsPfGDguoHCI78rA61D7A0VCua6w2CabmSg/edit#slide=id.p)に発表資料のみ掲載してあります。
 
 <hr>
 

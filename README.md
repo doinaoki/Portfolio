@@ -2,12 +2,14 @@
 
 # 研究実績
 [ソフトウェア工学研究会](https://www.sigse.jp/)  
+- 論文名: 推薦の優先度に基づく識別子名一括変更支援
 - 2024年3月
 - 口頭で発表
 - [学生研究賞](https://www.ipsj.or.jp/award/se-award1.html)受賞
 - 山下記念研究賞受賞
 
 [The International Conference on Software Maintenance and Evolution (ICSME)](https://conf.researchr.org/track/icsme-2024/icsme-2024-papers)
+- 論文名: RENAS: Prioritizing Co-Renaming Opportunities of Identifiers
 - Core Rank A
 - 2024年6月に論文がAcceptされた。
 - 2024年10月に口頭で発表予定

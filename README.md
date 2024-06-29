@@ -1,8 +1,19 @@
 # Portfolio
-以下作成物です。(年順)
 
-<hr>
+# 研究実績
+[ソフトウェア工学研究会](https://www.sigse.jp/)  
+- 2024年3月
+- 口頭で発表
+- [学生研究賞](https://www.ipsj.or.jp/award/se-award1.html)受賞
+- 山下記念研究賞受賞
 
+[The International Conference on Software Maintenance and Evolution (ICSME)](https://conf.researchr.org/track/icsme-2024/icsme-2024-papers)
+- Core Rank A
+- 2024年6月に論文がAcceptされた。
+- 2024年10月に口頭で発表予定
+
+# 制作物　　
+以下制作物です。(年順)
 ### RENAS
 研究で作成しました  
 </br><strong>概要</strong></br>
@@ -61,12 +72,14 @@ google driveに置きました[リンク](https://drive.google.com/drive/folders
 
 <hr>
 
-### Action ゲーム
+### Tokyo567
 チームを作り(5人)、サークルのハッカソンイベントで作成。  
 </br><strong>概要</strong></br>
-2Dアクションゲーム  
+初めての制作物。  
+簡易的な2Dアクションゲーム。  
 スキルを駆使してボスを倒したらゲームクリア。  
-google driveに置きました[リンク]()  
+バグだらけ。  
+google driveに置きました[リンク](https://drive.google.com/drive/folders/1UMX5vUEc6sDob393lPsuk2QGnfKAwKpz)  
 開発時期: 2020年5月の5日間  
 
 

@@ -53,7 +53,14 @@
 nuxt3を使用  
 バックエンドを担当  
 開発時期: 2023年5月 ~ 7月  
-公開することができないので、[リンク]()に写真のみ張り付けてあります。  
+公開することができないので写真のみ張り付けてあります。  
+資料検索ページ  
+<img src="https://github.com/doinaoki/Portfolio/blob/main/fig/home.png" width="600px">  
+資料追加ページ(google drive, google spreadsheetにアップロード)  
+<img src="https://github.com/doinaoki/Portfolio/blob/main/fig/%E8%BF%BD%E5%8A%A0%E7%94%BB%E9%9D%A2.png" width="600px">
+
+
+
 
 <hr>
 

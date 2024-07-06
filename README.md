@@ -21,7 +21,8 @@
 </br><strong>概要</strong></br>
 ソースコード中にある識別子の名前変更を推薦するツール。現在8月の学会提出に向けてRefactoring中  
 開発時期: 2023年5月 ~ 現在  
-[公開できる範囲](https://github.com/doinaoki/RENAS)  
+[公開できる範囲](https://github.com/doinaoki/RENAS)   
+google drive ですと RENAS-main.zip にあります
 
 <hr>
 
@@ -40,6 +41,7 @@
 </br><strong>概要</strong></br>
 麻雀牌は13,10,7枚、難易度調整が可能、間違えた問題は後から復習することができる。  
 最初Pythonで作成した[リンク](https://github.com/doinaoki/mahjong)(パソコンで実行)  
+google drive だと mahjong-main.zip にあります  
 開発時期: 2023年5月 ~ 7月  
 後にAndroidでも実行できるように改良中[リンク](https://github.com/doinaoki/Majong_java)  
 開発時期: 2024年5月 ~  
@@ -70,7 +72,8 @@ nuxt3を使用
 taskの閲覧、作成ができるもの。  
 バックエンドを担当した。(とてもプログラミングできる方がほとんどやってしまったため、あまり貢献できていない。)  
 開発時期: 2023年12月 ~ 2月　　
-[リンク](https://github.com/doinaoki/TASCOLA)　　
+[リンク](https://github.com/doinaoki/TASCOLA)  
+google drive ですと TASCOLA-main.zip にございます。  
 
 <hr>
 

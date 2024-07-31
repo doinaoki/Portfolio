@@ -30,7 +30,7 @@ google drive ですと RENAS-main.zip にあります
 チームを組んで(4人)、授業で現在作成中   
 <strong>概要</strong>
 友人が開いている日を教えてくれるWebアプリケーション  
-開発時期: 2024年5月 ~ 現在  
+開発時期: 2024年4月 ~ 7月  
 バックエンドを担当  
 公開することができないので、[リンク](https://docs.google.com/presentation/d/1gclXpFfsgsPfGDguoHCI78rA61D7A0VCua6w2CabmSg/edit#slide=id.p)に発表資料のみ掲載してあります。
 

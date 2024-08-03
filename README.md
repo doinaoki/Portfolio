@@ -21,8 +21,7 @@
 </br><strong>概要</strong></br>
 ソースコード中にある識別子の名前変更を推薦するツール。現在8月の学会提出に向けてRefactoring中  
 開発時期: 2023年5月 ~ 現在  
-[公開できる範囲](https://github.com/doinaoki/RENAS)   
-google drive ですと RENAS-main.zip にあります
+https://github.com/salab/RENAS 
 
 <hr>
 

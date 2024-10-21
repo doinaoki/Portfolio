@@ -12,12 +12,14 @@
 - 論文名: RENAS: Prioritizing Co-Renaming Opportunities of Identifiers
 - Core Rank A
 - 2024年6月に論文がAcceptされた。
-- 2024年10月に口頭で発表予定
+- 2024年[10月9日14:15~](https://conf.researchr.org/program/icsme-2024/program-icsme-2024/?date=Wed%209%20Oct%202024)に口頭で発表
 
 # 制作物　　
 以下制作物です。(年順)
 ### RENAS
-研究で作成しました  
+研究で作成しました   
+[The International Conference on Software Maintenance and Evolution (ICSME)](https://conf.researchr.org/track/icsme-2024/icsme-2024-papers)にてbadgeを獲得 + [10月10日13:30](https://conf.researchr.org/program/icsme-2024/program-icsme-2024/?date=Thu%2010%20Oct%202024)発表
+
 </br><strong>概要</strong></br>
 ソースコード中にある識別子の名前変更を推薦するツール。
 開発時期: 2023年5月 ~ 現在  

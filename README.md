@@ -6,13 +6,15 @@
 - 2024年3月
 - 口頭で発表
 - [学生研究賞](https://www.ipsj.or.jp/award/se-award1.html)受賞
-- 山下記念研究賞受賞
+- [山下記念研究賞](https://www.ipsj.or.jp/award/yamashita2024.html)受賞
 
 [The International Conference on Software Maintenance and Evolution (ICSME)](https://conf.researchr.org/track/icsme-2024/icsme-2024-papers)
 - 論文名: RENAS: Prioritizing Co-Renaming Opportunities of Identifiers
 - Core Rank A
-- 2024年6月に論文がAcceptされた。
+- 「Research Track」2024年6月に論文がAcceptされた。
+- 「Artifact Evaluation Track and ROSE Festival」2024年9月にGitHubがAcceptされた。
 - 2024年[10月9日14:15~](https://conf.researchr.org/program/icsme-2024/program-icsme-2024/?date=Wed%209%20Oct%202024)に口頭で発表
+- 2024年[10月10日13:30~](https://conf.researchr.org/track/icsme-2024/icsme-2024-artifact-evaluation-track-and-rose-festival?)に口頭で発表
 
 # 制作物　　
 以下制作物です。(年順)
